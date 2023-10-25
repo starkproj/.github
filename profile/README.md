@@ -42,6 +42,6 @@ If you seek to converse with the keepers of the VIDEO LENS, send your owl mail t
 - [![GitHub](https://img.shields.io/badge/Charles_Santos-181717?logo=GitHub&style=flat-square&logoColor=white)](https://github.com/DiabolicStarfish) [![Email](https://img.shields.io/badge/Email-charlesiiisantos14@gmail.com-9cf?style=flat-square)](mailto:charlesiiisantos14@gmail.com)
 - [![GitHub](https://img.shields.io/badge/Kyle_Español-181717?logo=GitHub&style=flat-square&logoColor=white)](https://github.com/kylekce) [![Email](https://img.shields.io/badge/Email-kylekce@gmail.com-9cf?style=flat-square)](mailto:kylekce@gmail.com)
 - [![GitHub](https://img.shields.io/badge/Sally_Segundo_Jr.-181717?logo=GitHub&style=flat-square&logoColor=white)](https://github.com/Hoshiyom1) [![Email](https://img.shields.io/badge/Email-sallypsegundojr@gmail.com-9cf?style=flat-square)](mailto:sallypsegundojr@gmail.com)
-- [![Email](https://img.shields.io/badge/Email-kbaltazar1323@gmail.com-9cf?style=flat-square)](mailto:kbaltazar1323@gmail.com)
+- [![GitHub](https://img.shields.io/badge/Kyle_Baltazar-181717?logo=GitHub&style=flat-square&logoColor=white)](https://github.com/Kylebaltazar)[![Email](https://img.shields.io/badge/Email-kbaltazar1323@gmail.com-9cf?style=flat-square)](mailto:kbaltazar1323@gmail.com)
 
  <em>"Unlock your video analysis with AI!"</em>
