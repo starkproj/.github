@@ -14,7 +14,7 @@ https://github.com/starkproj/.github/assets/18277662/061c9d59-f3c0-48ef-acb9-e98
   🌟 VIDEO LENS is a web application that analyzes educational videos. It uses the latest in deep learning for computer vision and natural language processing to improve your understanding and experience of educational videos. It offers intelligent features such as searching in video, transcription, concise summarization, and topic identification. These features are designed to help both learners and educators engage with educational videos more efficiently and effectively. Video Lens is your tool for the future of education, and it is all about your learning journey.
   
   <h2>📖 Documentation</h2>
-  Behold the ancient scrolls of knowledge in our <a href="https://drive.google.com/file/d/1XB5UyXul1VEqwMVO5_s9cc6X2TIqXZk8/view?usp=sharing">documentation</a>, guiding you through the secrets of VIDEO LENS, its arcane architecture, and more.
+  Behold the ancient scrolls of knowledge in our <a href="https://drive.google.com/file/d/1XB5UyXul1VEqwMVO5_s9cc6X2TIqXZk8/view?usp=sharing">documentation</a>(outdated docs), guiding you through the secrets of VIDEO LENS, its arcane architecture, and more.
 
   <br>
   <br>
