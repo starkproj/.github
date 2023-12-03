@@ -6,13 +6,15 @@ https://github.com/starkproj/.github/assets/18277662/061c9d59-f3c0-48ef-acb9-e98
   <h2>🎥 About VIDEO LENS</h2>
   🌟 VIDEO LENS is a web application that analyzes educational videos. It uses the latest in deep learning for computer vision and natural language processing to improve your understanding and experience of educational videos. It offers intelligent features such as searching in video, transcription, concise summarization, and topic identification. These features are designed to help both learners and educators engage with educational videos more efficiently and effectively. Video Lens is your tool for the future of education, and it is all about your learning journey.
   
-  <h2>📖 Documentation</h2>
-  Behold the ancient scrolls of knowledge in our <a href="https://drive.google.com/file/d/1XB5UyXul1VEqwMVO5_s9cc6X2TIqXZk8/view?usp=sharing">documentation</a>(outdated docs), guiding you through the secrets of VIDEO LENS, its arcane architecture, and more.
-
+  <h2>🏆 Awards</h2>
+  <ul>
+    <li>Best Thesis in Natural Language Processing Category</li>
+    <li>Most Innovative – 1st Place</li>
+    <li>Overall Best Thesis – 2nd Place</li>
+    <li>Best AVP – 2nd Place</li>
+    <li>Best Presenter - 2nd Place</li>
+  </ul>
   <br>
-  <br>
- <em>Welcome to the enchanting world of VIDEO LENS, crafted with passion by <a href=https://github.com/starkproj)>STARK</a>!</em>
-  
   </td>
   
   <td>
@@ -38,3 +40,8 @@ If you seek to converse with the keepers of the VIDEO LENS, send your owl mail t
 - [![GitHub](https://img.shields.io/badge/Kyle_Español-181717?logo=GitHub&style=flat-square&logoColor=white)](https://github.com/kylekce) [![Email](https://img.shields.io/badge/Email-kylekce@gmail.com-9cf?style=flat-square)](mailto:kylekce@gmail.com)
 - [![GitHub](https://img.shields.io/badge/Sally_Segundo_Jr.-181717?logo=GitHub&style=flat-square&logoColor=white)](https://github.com/Hoshiyom1) [![Email](https://img.shields.io/badge/Email-sallypsegundojr@gmail.com-9cf?style=flat-square)](mailto:sallypsegundojr@gmail.com)
 - [![GitHub](https://img.shields.io/badge/Kyle_Baltazar-181717?logo=GitHub&style=flat-square&logoColor=white)](https://github.com/Kylebaltazar)[![Email](https://img.shields.io/badge/Email-kbaltazar1323@gmail.com-9cf?style=flat-square)](mailto:kbaltazar1323@gmail.com)
+
+## Crafted with passion by <a href=https://github.com/starkproj)>STARK</a>!
+![2nd-place-min](https://github.com/starkproj/.github/assets/18277662/82960522-1eb6-4839-9381-943fc924ae00)
+
+
