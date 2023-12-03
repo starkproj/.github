@@ -42,6 +42,7 @@ If you seek to converse with the keepers of the VIDEO LENS, send your owl mail t
 - [![GitHub](https://img.shields.io/badge/Kyle_Baltazar-181717?logo=GitHub&style=flat-square&logoColor=white)](https://github.com/Kylebaltazar)[![Email](https://img.shields.io/badge/Email-kbaltazar1323@gmail.com-9cf?style=flat-square)](mailto:kbaltazar1323@gmail.com)
 
 ## Crafted with passion by <a href=https://github.com/starkproj)>STARK</a>!
-![2nd-place-min](https://github.com/starkproj/.github/assets/18277662/82960522-1eb6-4839-9381-943fc924ae00)
+![IMG_20231129_170005](https://github.com/starkproj/.github/assets/18277662/a1f04b79-95df-4bdc-8604-4de9b2c2eb04)
+
 
 
