@@ -5,6 +5,9 @@ https://github.com/starkproj/.github/assets/18277662/061c9d59-f3c0-48ef-acb9-e98
   <td>
   <h2>🎥 About VIDEO LENS</h2>
   🌟 VIDEO LENS is a web application that analyzes educational videos. It uses the latest in deep learning for computer vision and natural language processing to improve your understanding and experience of educational videos. It offers intelligent features such as searching in video, transcription, concise summarization, and topic identification. These features are designed to help both learners and educators engage with educational videos more efficiently and effectively. Video Lens is your tool for the future of education, and it is all about your learning journey.
+
+  <h2>📜 RESERACH PAPER</h2>
+  Read our paper at https://www.researchgate.net/publication/379037487_Video_Content_Analysis_through_Computer_Vision_and_Natural_Language_Processing
   
   <h2>🏆 Awards</h2>
   <ul>
@@ -44,5 +47,6 @@ If you seek to converse with the keepers of the VIDEO LENS, send your owl mail t
 ## Crafted with passion by <a href=https://github.com/starkproj)>STARK</a>!
 ![IMG_20231129_170005](https://github.com/starkproj/.github/assets/18277662/a1f04b79-95df-4bdc-8604-4de9b2c2eb04)
 
+*Thesis Members (from left): Ralph Cajipe, Kyle Español, Sally Segundo Jr., Charles Santos, and Kyle Baltazar.*
 
 
