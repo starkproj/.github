@@ -10,6 +10,7 @@ https://github.com/starkproj/.github/assets/18277662/061c9d59-f3c0-48ef-acb9-e98
   Read our paper at https://www.researchgate.net/publication/379037487_Video_Content_Analysis_through_Computer_Vision_and_Natural_Language_Processing
   
   <h2>🏆 Awards</h2>
+  See our awards at https://www.linkedin.com/feed/update/urn:li:activity:7140985072400089088
   <ul>
     <li>Best Thesis in Natural Language Processing Category</li>
     <li>Most Innovative – 1st Place</li>
