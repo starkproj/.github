@@ -17,6 +17,7 @@ https://github.com/starkproj/.github/assets/18277662/061c9d59-f3c0-48ef-acb9-e98
     <li>Overall Best Thesis – 2nd Place</li>
     <li>Best Audio-Visual Presentation – 2nd Place</li>
     <li>Best Presenter - 2nd Place</li>
+    <li>Best Thesis Presenter for 5th International Collaboration on Technology 2024 by FEU Tech</li>
   </ul>
   <br>
   </td>
