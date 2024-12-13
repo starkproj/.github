@@ -14,7 +14,7 @@ https://github.com/starkproj/.github/assets/18277662/061c9d59-f3c0-48ef-acb9-e98
     <li>Best Thesis in Natural Language Processing Category</li>
     <li>Most Innovative – 1st Place</li>
     <li>Overall Best Thesis – 2nd Place</li>
-    <li>Best AVP – 2nd Place</li>
+    <li>Best Audio-Visual Presentation – 2nd Place</li>
     <li>Best Presenter - 2nd Place</li>
   </ul>
   <br>
