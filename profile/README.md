@@ -49,6 +49,7 @@ If you seek to converse with the keepers of the VIDEO LENS, send your owl mail t
 ## Crafted with passion by <a href=https://github.com/starkproj)>STARK</a>!
 ![team-stark-with-mentor](https://github.com/user-attachments/assets/91195800-115c-4ea0-8c6e-d8e3ab772cd3)
 
-*Thesis Members (from left): Charles Santos, Ralph Cajipe,  Sally Segundo Jr., Kyle Español, Kyle Baltazar, Prof. May Diaz (middle)*
+*Thesis Members (from left): Charles Santos, Ralph Cajipe,  Sally Segundo Jr., Kyle Español, Kyle Baltazar* <br>
+*Mentor (middle): Prof. May Diaz*
 
 
